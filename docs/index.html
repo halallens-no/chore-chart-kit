@@ -1,57 +1,226 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>chore-chart-kit — Free Printable Chore Chart Templates</title>
-  <meta name="description" content="100+ printable chore chart templates as JSON. CC-BY-4.0 licensed. Free for any use.">
-  <link rel="canonical" href="https://halallens-no.github.io/chore-chart-kit/">
-  <style>
-    body { font-family: system-ui, -apple-system, sans-serif; max-width: 720px; margin: 2rem auto; padding: 0 1rem; line-height: 1.6; color: #2a2a2a; }
-    h1 { font-size: 2rem; margin-bottom: 0.5rem; }
-    .tagline { color: #666; margin-bottom: 2rem; }
-    .badge { display: inline-block; padding: 0.2rem 0.6rem; background: #f0f0f0; border-radius: 4px; font-size: 0.85rem; margin-right: 0.5rem; }
-    .card { padding: 1rem; border: 1px solid #e0e0e0; border-radius: 8px; margin: 1rem 0; }
-    .footer { margin-top: 4rem; padding-top: 2rem; border-top: 1px solid #eee; color: #666; font-size: 0.9rem; }
-    a { color: #0066cc; }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>chore-chart-kit — Free Open-Source Printable Chore Chart Templates</title>
+<meta name="description" content="100+ free, open-source printable chore chart templates as JSON. CC-BY-4.0 licensed. Renderer + 50 ready-to-print PDFs.">
+<link rel="canonical" href="https://halallens-no.github.io/chore-chart-kit/">
+<link rel="stylesheet" href="assets/styles.css">
+<meta property="og:title" content="chore-chart-kit — Free Printable Chore Chart Templates">
+<meta property="og:description" content="100+ open-source chart templates as JSON. CC-BY-4.0.">
+<meta property="og:url" content="https://halallens-no.github.io/chore-chart-kit/">
+<meta property="og:type" content="website">
 </head>
 <body>
-  <h1>chore-chart-kit</h1>
-  <p class="tagline">100+ free, printable chore chart templates. JSON-defined. CC-BY-4.0.</p>
 
-  <p>
-    <span class="badge">License: CC-BY-4.0</span>
-    <span class="badge">Code: MIT</span>
-    <span class="badge">v0.1 (in development)</span>
-  </p>
+  <header class="site-header">
+    <div class="container">
+      <a class="site-header__logo" href="./">chore-chart-kit</a>
+      <nav class="site-header__nav">
+        <a href="./gallery.html">Gallery</a>
+        <a href="https://github.com/halallens-no/chore-chart-kit">GitHub</a>
+        <a href="https://printablechorechart.com">Live Editor</a>
+      </nav>
+    </div>
+  </header>
+<main class="container">
+  <section class="hero">
+    <div class="hero__badges">
+      <span class="badge">License: CC-BY-4.0</span>
+      <span class="badge">Code: MIT</span>
+      <span class="badge">100 templates</span>
+      <span class="badge">7 formats</span>
+    </div>
+    <h1>Free, open-source printable<br>chore chart templates.</h1>
+    <p class="tagline">
+      100 chart designs as JSON. Render to SVG with our
+      zero-dep TypeScript library, or download 50
+      ready-to-print PDFs. Use them anywhere — credit
+      <a href="https://printablechorechart.com">printablechorechart.com</a>.
+    </p>
+    <div>
+      <a class="btn btn-primary" href="gallery.html">Browse all 100 templates</a>
+      <a class="btn btn-secondary" href="https://github.com/halallens-no/chore-chart-kit">View on GitHub</a>
+    </div>
+  </section>
 
-  <div class="card">
-    <strong>🚧 v1.0 in development.</strong>
-    Templates and gallery are being curated and ported. Star the
-    <a href="https://github.com/halallens-no/chore-chart-kit">repo</a>
-    to follow along.
+  <div class="stats">
+    <div class="stat">
+      <div class="stat__num">100</div>
+      <div class="stat__label">Templates</div>
+    </div>
+    <div class="stat">
+      <div class="stat__num">7/8</div>
+      <div class="stat__label">Chart formats</div>
+    </div>
+    <div class="stat">
+      <div class="stat__num">50</div>
+      <div class="stat__label">Print-ready PDFs</div>
+    </div>
+    <div class="stat">
+      <div class="stat__num">CC-BY</div>
+      <div class="stat__label">4.0 license</div>
+    </div>
   </div>
 
-  <h2>What's coming</h2>
-  <ul>
-    <li>100 hand-picked chore chart templates as JSON</li>
-    <li>50 ready-to-print PDFs</li>
-    <li>TypeScript renderer (JSON → SVG)</li>
-    <li>This gallery, fully populated</li>
-  </ul>
+  <section>
+    <h2 class="section-title">Featured templates</h2>
+    <p class="section-intro">A handful of the highest-quality designs across our 8 chart formats. <a href="gallery.html">See all 100 →</a></p>
+    <div class="card-grid">
+    <a class="card" href="templates/blue-puppy-adventure-chore-chart.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/blue-puppy-adventure-chore-chart.png" alt="Blue Pup Adventure Chart preview"></div>
+      <div class="card__body">
+        <div class="card__title">Blue Pup Adventure Chart</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>blue-puppy</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/burgundy-executive-daily-agenda.html" data-format="daily-checklist">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/burgundy-executive-daily-agenda.png" alt="Burgundy Executive Daily Agenda preview"></div>
+      <div class="card__body">
+        <div class="card__title">Burgundy Executive Daily Agenda</div>
+        <div class="card__meta">
+          <span class="card__format">Daily Checklist</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/charcoal-modern-office-task-board.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/charcoal-modern-office-task-board.png" alt="Charcoal Modern Task Board preview"></div>
+      <div class="card__body">
+        <div class="card__title">Charcoal Modern Task Board</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/cobalt-daily-office-checklist.html" data-format="daily-checklist">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/cobalt-daily-office-checklist.png" alt="Cobalt Daily Office Checklist preview"></div>
+      <div class="card__body">
+        <div class="card__title">Cobalt Daily Office Checklist</div>
+        <div class="card__meta">
+          <span class="card__format">Daily Checklist</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/copper-tone-daily-routine-planner.html" data-format="routine-schedule">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/copper-tone-daily-routine-planner.png" alt="Copper Tone Daily Routine Planner preview"></div>
+      <div class="card__body">
+        <div class="card__title">Copper Tone Daily Routine Planner</div>
+        <div class="card__meta">
+          <span class="card__format">Routine Schedule</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/creature-catcher-quest-chore-chart.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/creature-catcher-quest-chore-chart.png" alt="Creature Catcher Quest preview"></div>
+      <div class="card__body">
+        <div class="card__title">Creature Catcher Quest</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>pocket-creatures</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/espresso-monthly-duty-calendar.html" data-format="monthly-calendar">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/espresso-monthly-duty-calendar.png" alt="Espresso Monthly Duty Calendar preview"></div>
+      <div class="card__body">
+        <div class="card__title">Espresso Monthly Duty Calendar</div>
+        <div class="card__meta">
+          <span class="card__format">Monthly Calendar</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/executive-navy-weekly-office-planner.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/executive-navy-weekly-office-planner.png" alt="Executive Navy Weekly Planner preview"></div>
+      <div class="card__body">
+        <div class="card__title">Executive Navy Weekly Planner</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/gothic-bunny-midnight-skull-chore-chart.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/gothic-bunny-midnight-skull-chore-chart.png" alt="Midnight Skull Bunnies preview"></div>
+      <div class="card__body">
+        <div class="card__title">Midnight Skull Bunnies</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>gothic-bunny</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/graphite-workspace-planner.html" data-format="weekly-grid">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/graphite-workspace-planner.png" alt="Graphite Workspace Planner preview"></div>
+      <div class="card__body">
+        <div class="card__title">Graphite Workspace Planner</div>
+        <div class="card__meta">
+          <span class="card__format">Weekly Grid</span>
+          <span>professional</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/holiday-3d-clay-193-blank-template.html" data-format="blank-template">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/holiday-3d-clay-193-blank-template.png" alt="Harmony Holiday Open Template preview"></div>
+      <div class="card__body">
+        <div class="card__title">Harmony Holiday Open Template</div>
+        <div class="card__meta">
+          <span class="card__format">Blank Template</span>
+          <span>holiday</span>
+        </div>
+      </div>
+    </a>
+    <a class="card" href="templates/holiday-3d-clay-193-monthly-calendar.html" data-format="monthly-calendar">
+      <div class="card__thumb"><img loading="lazy" src="https://raw.githubusercontent.com/halallens-no/chore-chart-kit/main/samples/png/holiday-3d-clay-193-monthly-calendar.png" alt="Mellow Holiday Calendar Board preview"></div>
+      <div class="card__body">
+        <div class="card__title">Mellow Holiday Calendar Board</div>
+        <div class="card__meta">
+          <span class="card__format">Monthly Calendar</span>
+          <span>holiday</span>
+        </div>
+      </div>
+    </a></div>
+  </section>
 
-  <h2>Quick start</h2>
-  <p>Until v1.0 ships, head to the
-    <a href="https://github.com/halallens-no/chore-chart-kit">GitHub repo</a>
-    for the schema and contribution guide.
-  </p>
+  <section>
+    <h2 class="section-title">Quick start</h2>
+    <p class="section-intro">Pick a template, render it with the kit, or grab the PDF.</p>
+    <pre><code>npm install chore-chart-kit
+# (not yet published — use the GitHub repo directly for v1)
 
-  <div class="footer">
-    Built by <a href="https://printablechorechart.com">Flinkis</a>.
-    Want a no-code editor for these templates? Try the
-    <a href="https://printablechorechart.com">printablechorechart.com</a>
-    web app — same source, friendlier UI.
-  </div>
+import { renderChart } from 'chore-chart-kit';
+import template from './templates/chore-charts/dinosaur-weekly.json';
+
+const svg = renderChart(template);
+// → SVG string, ready to inject or convert to PDF</code></pre>
+  </section>
+</main>
+
+  <footer class="site-footer">
+    <div class="container">
+      <p>
+        Built by <a href="https://printablechorechart.com">Flinkis</a>.
+        <span class="site-footer__divider">•</span>
+        Templates: CC-BY-4.0
+        <span class="site-footer__divider">•</span>
+        Code: MIT
+        <span class="site-footer__divider">•</span>
+        <a href="https://github.com/halallens-no/chore-chart-kit">Source on GitHub</a>
+      </p>
+      <p style="margin-top: 16px;">
+        Want a no-code editor for these templates?
+        Try <a href="https://printablechorechart.com"><strong>printablechorechart.com</strong></a>
+        — same source, friendlier UI, no install.
+      </p>
+    </div>
+  </footer>
 </body>
 </html>

@@ -40,7 +40,9 @@
     "build": "tsc -p tsconfig.json",
     "test": "vitest run",
     "test:watch": "vitest",
-    "build:samples": "npm run build && node scripts/build-samples.mjs"
+    "build:samples": "npm run build && node scripts/build-samples.mjs",
+    "build:gallery": "node scripts/build-gallery.mjs",
+    "build:all": "npm run build:samples && npm run build:gallery"
   },
   "devDependencies": {
     "@resvg/resvg-js": "^2.6.2",

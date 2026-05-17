@@ -39,11 +39,14 @@
     "validate": "ajv validate --spec=draft2020 -s templates/schema.json -d \"templates/chore-charts/*.json\"",
     "build": "tsc -p tsconfig.json",
     "test": "vitest run",
-    "test:watch": "vitest"
+    "test:watch": "vitest",
+    "build:samples": "npm run build && node scripts/build-samples.mjs"
   },
   "devDependencies": {
+    "@resvg/resvg-js": "^2.6.2",
     "@types/node": "^20.11.0",
     "ajv-cli": "^5.0.0",
+    "pdf-lib": "^1.17.1",
     "typescript": "^5.4.0",
     "vitest": "^1.6.0"
   }

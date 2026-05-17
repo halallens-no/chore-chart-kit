@@ -1,19 +1,28 @@
-name: Validate templates
+name: Validate
 
 on:
   push:
     paths:
       - 'templates/**'
+      - 'src/**'
+      - 'package.json'
+      - 'tsconfig.json'
+      - 'vitest.config.ts'
       - '.github/workflows/validate.yml'
   pull_request:
     paths:
       - 'templates/**'
+      - 'src/**'
+      - 'package.json'
+      - 'tsconfig.json'
+      - 'vitest.config.ts'
 
 permissions:
   contents: read
 
 jobs:
-  validate:
+  schema:
+    name: Templates pass JSON Schema
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -31,3 +40,18 @@ jobs:
             exit 0
           fi
           ajv validate --spec=draft2020 -s templates/schema.json -d "templates/chore-charts/*.json"
+
+  build-and-test:
+    name: TypeScript build + Vitest
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - run: npm ci
+      - name: TypeScript compile
+        run: npm run build
+      - name: Run tests
+        run: npm test

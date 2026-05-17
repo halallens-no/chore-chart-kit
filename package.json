@@ -23,10 +23,28 @@
     "open-source"
   ],
   "private": true,
+  "type": "module",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "engines": {
+    "node": ">=18"
+  },
+  "files": [
+    "dist",
+    "src",
+    "templates",
+    "samples"
+  ],
   "scripts": {
-    "validate": "ajv validate -s templates/schema.json -d \"templates/chore-charts/*.json\""
+    "validate": "ajv validate --spec=draft2020 -s templates/schema.json -d \"templates/chore-charts/*.json\"",
+    "build": "tsc -p tsconfig.json",
+    "test": "vitest run",
+    "test:watch": "vitest"
   },
   "devDependencies": {
-    "ajv-cli": "^5.0.0"
+    "@types/node": "^20.11.0",
+    "ajv-cli": "^5.0.0",
+    "typescript": "^5.4.0",
+    "vitest": "^1.6.0"
   }
 }

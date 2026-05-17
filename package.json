@@ -1,0 +1,32 @@
+{
+  "name": "chore-chart-kit",
+  "version": "0.1.0",
+  "description": "Free, open-source library of printable chore chart templates. JSON-defined, SVG/PDF renderable, CC-BY-4.0 licensed.",
+  "homepage": "https://printablechorechart.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/halallens-no/chore-chart-kit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/halallens-no/chore-chart-kit/issues"
+  },
+  "license": "(CC-BY-4.0 AND MIT)",
+  "author": "Flinkis <hello@printablechorechart.com>",
+  "keywords": [
+    "chore-chart",
+    "printable",
+    "template",
+    "pdf",
+    "svg",
+    "parenting",
+    "kids",
+    "open-source"
+  ],
+  "private": true,
+  "scripts": {
+    "validate": "ajv validate -s templates/schema.json -d \"templates/chore-charts/*.json\""
+  },
+  "devDependencies": {
+    "ajv-cli": "^5.0.0"
+  }
+}

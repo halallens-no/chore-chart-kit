@@ -1,0 +1,33 @@
+name: Validate templates
+
+on:
+  push:
+    paths:
+      - 'templates/**'
+      - '.github/workflows/validate.yml'
+  pull_request:
+    paths:
+      - 'templates/**'
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Install ajv-cli
+        run: npm install -g ajv-cli ajv-formats
+      - name: Validate all templates against schema
+        run: |
+          shopt -s nullglob
+          files=(templates/chore-charts/*.json)
+          if [ ${#files[@]} -eq 0 ]; then
+            echo "No templates yet — skipping validation."
+            exit 0
+          fi
+          ajv validate -s templates/schema.json -d "templates/chore-charts/*.json"

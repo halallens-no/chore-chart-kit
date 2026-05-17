@@ -1,0 +1,97 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://halallens-no.github.io/chore-chart-kit/schemas/template.json",
+  "title": "Chore Chart Template",
+  "type": "object",
+  "required": ["slug", "title", "format", "version", "license"],
+  "additionalProperties": false,
+  "properties": {
+    "slug": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Lowercase kebab-case identifier. Must match the JSON filename."
+    },
+    "title": {
+      "type": "string",
+      "minLength": 3,
+      "maxLength": 100,
+      "description": "Human-readable title."
+    },
+    "format": {
+      "type": "string",
+      "enum": [
+        "weekly-grid",
+        "daily-checklist",
+        "star-chart",
+        "reward-tracker",
+        "multi-kid",
+        "blank-template",
+        "monthly-calendar",
+        "routine-schedule"
+      ]
+    },
+    "version": {
+      "type": "string",
+      "pattern": "^\\d+\\.\\d+\\.\\d+$"
+    },
+    "license": {
+      "type": "string",
+      "enum": ["CC-BY-4.0"]
+    },
+    "theme": {
+      "type": "string",
+      "description": "Theme keyword (dinosaur, space, unicorn, minimalist, etc.)"
+    },
+    "ageRange": {
+      "type": "object",
+      "properties": {
+        "min": { "type": "integer", "minimum": 2, "maximum": 18 },
+        "max": { "type": "integer", "minimum": 2, "maximum": 18 }
+      },
+      "required": ["min", "max"]
+    },
+    "colors": {
+      "type": "object",
+      "additionalProperties": {
+        "type": "string",
+        "pattern": "^#[0-9A-Fa-f]{6}$"
+      },
+      "description": "Color palette as hex codes keyed by role (primary, secondary, accent, text, background)."
+    },
+    "rows": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["label"],
+        "properties": {
+          "label": { "type": "string" },
+          "icon": { "type": "string" }
+        }
+      },
+      "description": "Chore rows. Empty for blank-template format."
+    },
+    "columns": {
+      "type": "array",
+      "items": { "type": "string" },
+      "description": "Column headers. For weekly-grid this is days of the week."
+    },
+    "rewardText": {
+      "type": "string",
+      "description": "Optional reward row text (weekly-grid format)."
+    },
+    "starsRequired": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 100,
+      "description": "Used by star-chart and reward-tracker formats."
+    },
+    "previewImage": {
+      "type": "string",
+      "description": "Relative path to a preview image, if available."
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  }
+}

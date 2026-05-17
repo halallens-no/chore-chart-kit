@@ -1,0 +1,32 @@
+name: Bug report
+description: Report a bug in the renderer, templates, or docs
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: dropdown
+    id: area
+    attributes:
+      label: Area
+      options:
+        - Renderer (src/)
+        - Templates (JSON files)
+        - Samples (PDFs)
+        - Gallery (GH Pages)
+        - Docs / README
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Describe the bug
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Reproduction
+      description: Steps to reproduce, or a minimal code sample
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected behavior

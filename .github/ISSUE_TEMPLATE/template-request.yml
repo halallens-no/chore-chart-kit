@@ -1,0 +1,44 @@
+name: Template request
+description: Request a new chart template
+title: "[template] "
+labels: ["template-request"]
+body:
+  - type: dropdown
+    id: format
+    attributes:
+      label: Chart format
+      options:
+        - weekly-grid
+        - daily-checklist
+        - star-chart
+        - reward-tracker
+        - multi-kid
+        - blank-template
+        - monthly-calendar
+        - routine-schedule
+    validations:
+      required: true
+  - type: input
+    id: theme
+    attributes:
+      label: Theme
+      placeholder: e.g. dinosaur, space, ocean, minimalist
+    validations:
+      required: true
+  - type: input
+    id: age-range
+    attributes:
+      label: Age range
+      placeholder: e.g. 4-8 years, toddlers, teens
+  - type: textarea
+    id: description
+    attributes:
+      label: What should this template look like?
+      description: Describe the chart, colors, mood, layout
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I've checked the existing templates and this doesn't already exist
+          required: true

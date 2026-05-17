@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-192-blank-template",
+  "title": "Playful Holiday Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Playful Holiday Open Template — a watercolor style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#53c575",
+    "border": "#d2dac7",
+    "header": "#90d240",
+    "rowOdd": "#eceeea",
+    "rowEven": "#f6f7f5",
+    "checkmark": "#22c352",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "watercolor blank template",
+    "free holiday chart"
+  ]
+}

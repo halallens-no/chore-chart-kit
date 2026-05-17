@@ -1,0 +1,24 @@
+{
+  "slug": "professional-doodle-181-star-chart",
+  "title": "Funky Professional Star Tracker",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Funky Professional Star Tracker — a doodle style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5885c0",
+    "border": "#c7dad7",
+    "header": "#41cbb8",
+    "rowOdd": "#e6ebea",
+    "rowEven": "#f4f6f6",
+    "checkmark": "#2268c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "doodle star chart",
+    "free professional chart"
+  ]
+}

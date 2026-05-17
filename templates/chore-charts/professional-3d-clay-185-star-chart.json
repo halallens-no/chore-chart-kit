@@ -1,0 +1,24 @@
+{
+  "slug": "professional-3d-clay-185-star-chart",
+  "title": "Hazy Professional Star Rewards",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Hazy Professional Star Rewards — a 3d clay style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d09347",
+    "border": "#dac7ca",
+    "header": "#e13045",
+    "rowOdd": "#e4ddde",
+    "rowEven": "#f7f4f5",
+    "checkmark": "#c37a22",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "3d-clay star chart",
+    "free professional chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "copper-tone-daily-routine-planner",
+  "title": "Copper Tone Daily Routine Planner",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Warm copper-toned routine planner for structured daily office schedules. Inviting yet professional design for consistent workflows.",
+  "colors": {
+    "header": "#6d4c41",
+    "headerText": "#efebe9",
+    "accent": "#bcaaa4",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(239,235,233,0.90)",
+    "border": "#d7ccc8",
+    "checkmark": "#8d6e63"
+  },
+  "tags": [
+    "daily routine planner",
+    "office routine chart",
+    "copper planner",
+    "structured schedule",
+    "workplace routine"
+  ]
+}

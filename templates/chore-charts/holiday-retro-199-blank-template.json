@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-199-blank-template",
+  "title": "Hazy Holiday Custom Chart",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Hazy Holiday Custom Chart — a retro style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3adecd",
+    "border": "#cedac7",
+    "header": "#54c80b",
+    "rowOdd": "#e1e5de",
+    "rowEven": "#f9faf8",
+    "checkmark": "#22c3b3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "retro blank template",
+    "free holiday chart"
+  ]
+}

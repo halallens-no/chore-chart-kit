@@ -1,0 +1,25 @@
+{
+  "slug": "olive-green-office-routine-schedule",
+  "title": "Olive Green Office Routine Schedule",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Structured olive green routine schedule for daily office workflows. Time-slot based layout for morning standup to end-of-day wrap-up.",
+  "colors": {
+    "header": "#33691e",
+    "headerText": "#f1f8e9",
+    "accent": "#7cb342",
+    "rowEven": "rgba(255,255,255,0.92)",
+    "rowOdd": "rgba(241,248,233,0.88)",
+    "border": "#c5e1a5",
+    "checkmark": "#558b2f"
+  },
+  "tags": [
+    "office routine schedule",
+    "daily office routine",
+    "time-slot planner",
+    "office workflow chart",
+    "structured daily schedule"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-gradient-195-daily-checklist",
+  "title": "Dreamy Holiday Day Tracker",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Dreamy Holiday Day Tracker — a gradient style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c4b154",
+    "border": "#dacdc7",
+    "header": "#d4734d",
+    "rowOdd": "#eae6e4",
+    "rowEven": "#f3f1ef",
+    "checkmark": "#c3a822",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "gradient daily checklist",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "pixel-block-builder-voxel-chore-chart",
+  "title": "Pixel Block Builder Chart",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "pixel-world",
+  "description": "Sharp-edged pixel blocks, pickaxes, and dirt-brown borders bring the voxel world to life. Grass green headers and earthy brown accents create an 8-bit block-building adventure on a flat vector canvas — every chore is a block placed toward your build.",
+  "colors": {
+    "header": "#3A7D2C",
+    "headerText": "#FFFFFF",
+    "accent": "#7B4F1A",
+    "rowEven": "rgba(240,255,240,0.95)",
+    "rowOdd": "rgba(245,235,210,0.90)",
+    "border": "#7B4F1A",
+    "checkmark": "#3A7D2C"
+  },
+  "tags": [
+    "minecraft chore chart printable",
+    "pixel chore chart for kids",
+    "block builder reward chart",
+    "voxel game chore tracker",
+    "minecraft style weekly planner"
+  ]
+}

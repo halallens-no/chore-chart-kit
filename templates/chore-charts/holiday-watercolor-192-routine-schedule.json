@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-192-routine-schedule",
+  "title": "Organic Holiday Schedule Chart",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Organic Holiday Schedule Chart — a watercolor style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c256bb",
+    "border": "#c7c7da",
+    "header": "#5050d1",
+    "rowOdd": "#e0e0e7",
+    "rowEven": "#f6f6f8",
+    "checkmark": "#c322b8",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "watercolor routine schedule",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-192-monthly-calendar",
+  "title": "Quiet Holiday Month View",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Quiet Holiday Month View — a watercolor style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#52c6ba",
+    "border": "#d0dac7",
+    "header": "#86d33e",
+    "rowOdd": "#e9ebe6",
+    "rowEven": "#f4f5f2",
+    "checkmark": "#22c3b3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "watercolor monthly calendar",
+    "free holiday chart"
+  ]
+}

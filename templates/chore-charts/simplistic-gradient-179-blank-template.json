@@ -1,0 +1,24 @@
+{
+  "slug": "simplistic-gradient-179-blank-template",
+  "title": "Royal Simplistic Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "simplistic",
+  "description": "Royal Simplistic Open Template — a gradient style blank template with simplistic theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c65184",
+    "border": "#cdc7da",
+    "header": "#4d26af",
+    "rowOdd": "#e4e3e9",
+    "rowEven": "#f7f6f8",
+    "checkmark": "#c32268",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "simplistic blank template",
+    "printable blank template for kids",
+    "gradient blank template",
+    "free simplistic chart"
+  ]
+}

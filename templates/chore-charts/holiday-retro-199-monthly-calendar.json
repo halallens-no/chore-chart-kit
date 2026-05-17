@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-199-monthly-calendar",
+  "title": "Royal Holiday Calendar Chart",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Royal Holiday Calendar Chart — a retro style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d444cc",
+    "border": "#cdc7da",
+    "header": "#4e17c5",
+    "rowOdd": "#e7e5eb",
+    "rowEven": "#f6f5f8",
+    "checkmark": "#c322bb",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "retro monthly calendar",
+    "free holiday chart"
+  ]
+}

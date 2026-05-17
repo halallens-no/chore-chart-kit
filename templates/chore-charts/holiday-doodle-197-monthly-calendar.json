@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-doodle-197-monthly-calendar",
+  "title": "Organic Holiday Monthly Planner",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Organic Holiday Monthly Planner — a doodle style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#bc5b92",
+    "border": "#c8c7da",
+    "header": "#3c3abd",
+    "rowOdd": "#e9e9ed",
+    "rowEven": "#f3f3f6",
+    "checkmark": "#c3227d",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "doodle monthly calendar",
+    "free holiday chart"
+  ]
+}

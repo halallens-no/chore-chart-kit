@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-gradient-195-reward-tracker",
+  "title": "Frosty Holiday Achievement Board",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Frosty Holiday Achievement Board — a gradient style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#cd9d4a",
+    "border": "#dac7ca",
+    "header": "#b61e37",
+    "rowOdd": "#eee9ea",
+    "rowEven": "#f7f5f5",
+    "checkmark": "#c38822",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "gradient reward tracker",
+    "free holiday chart"
+  ]
+}

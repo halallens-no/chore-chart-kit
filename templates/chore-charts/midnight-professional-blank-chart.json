@@ -1,0 +1,25 @@
+{
+  "slug": "midnight-professional-blank-chart",
+  "title": "Midnight Professional Blank Chart",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Sophisticated midnight blank chart for any professional use. Dark gradient with crisp white chart area for maximum printing contrast.",
+  "colors": {
+    "header": "#0d1b2a",
+    "headerText": "#e2e8f0",
+    "accent": "#4a5568",
+    "rowEven": "rgba(255,255,255,0.95)",
+    "rowOdd": "rgba(247,250,252,0.95)",
+    "border": "#a0aec0",
+    "checkmark": "#2d3748"
+  },
+  "tags": [
+    "professional blank chart",
+    "midnight template",
+    "custom office planner",
+    "dark professional chart",
+    "office blank template"
+  ]
+}

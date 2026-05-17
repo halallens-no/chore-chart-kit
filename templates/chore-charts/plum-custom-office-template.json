@@ -1,0 +1,25 @@
+{
+  "slug": "plum-custom-office-template",
+  "title": "Plum Custom Office Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Distinctive plum blank template for custom office tracking. Write in your own tasks, departments, or project milestones.",
+  "colors": {
+    "header": "#4a148c",
+    "headerText": "#f3e5f5",
+    "accent": "#ab47bc",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(243,229,245,0.88)",
+    "border": "#ce93d8",
+    "checkmark": "#8e24aa"
+  },
+  "tags": [
+    "blank office template",
+    "custom office chart",
+    "plum template",
+    "fillable office planner",
+    "custom task board"
+  ]
+}

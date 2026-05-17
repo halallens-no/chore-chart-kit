@@ -1,0 +1,24 @@
+{
+  "slug": "professional-illustrated-188-daily-checklist",
+  "title": "Organic Professional To-Do Chart",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Organic Professional To-Do Chart — a illustrated style daily checklist with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c650c8",
+    "border": "#cac7da",
+    "header": "#4a38d5",
+    "rowOdd": "#dedee5",
+    "rowEven": "#f2f1f5",
+    "checkmark": "#c022c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional daily checklist",
+    "printable daily checklist for kids",
+    "illustrated daily checklist",
+    "free professional chart"
+  ]
+}

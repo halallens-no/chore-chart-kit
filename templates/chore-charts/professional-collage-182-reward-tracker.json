@@ -1,0 +1,24 @@
+{
+  "slug": "professional-collage-182-reward-tracker",
+  "title": "Quiet Professional Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Quiet Professional Points Tracker — a collage style reward tracker with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#52c55a",
+    "border": "#d0dac7",
+    "header": "#82d23c",
+    "rowOdd": "#e0e4dc",
+    "rowEven": "#f2f4f0",
+    "checkmark": "#22c32d",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional reward tracker",
+    "printable reward tracker for kids",
+    "collage reward tracker",
+    "free professional chart"
+  ]
+}

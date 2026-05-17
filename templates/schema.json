@@ -42,6 +42,10 @@
       "type": "string",
       "description": "Theme keyword (dinosaur, space, unicorn, minimalist, etc.)"
     },
+    "description": {
+      "type": "string",
+      "description": "Short human-readable description of the template."
+    },
     "ageRange": {
       "type": "object",
       "properties": {
@@ -54,9 +58,9 @@
       "type": "object",
       "additionalProperties": {
         "type": "string",
-        "pattern": "^#[0-9A-Fa-f]{6}$"
+        "description": "CSS color value — hex (e.g. #E63950), rgb(...), rgba(...), or named color."
       },
-      "description": "Color palette as hex codes keyed by role (primary, secondary, accent, text, background)."
+      "description": "Color palette keyed by role (header, accent, rowEven, rowOdd, border, etc.)."
     },
     "rows": {
       "type": "array",

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-199-daily-checklist",
+  "title": "Cheerful Holiday Day Tracker",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Cheerful Holiday Day Tracker — a retro style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5192c6",
+    "border": "#c7dacf",
+    "header": "#36d27a",
+    "rowOdd": "#e0e7e3",
+    "rowEven": "#eef3f0",
+    "checkmark": "#227ac3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "retro daily checklist",
+    "free holiday chart"
+  ]
+}

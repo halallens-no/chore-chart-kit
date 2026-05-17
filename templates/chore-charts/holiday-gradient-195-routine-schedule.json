@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-gradient-195-routine-schedule",
+  "title": "Hazy Holiday Routine Board",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Hazy Holiday Routine Board — a gradient style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#baa65e",
+    "border": "#dac7ce",
+    "header": "#9c3358",
+    "rowOdd": "#e8e2e4",
+    "rowEven": "#f5f2f3",
+    "checkmark": "#c3a022",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "gradient routine schedule",
+    "free holiday chart"
+  ]
+}

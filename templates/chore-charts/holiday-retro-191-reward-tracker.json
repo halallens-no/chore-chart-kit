@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-191-reward-tracker",
+  "title": "Harmony Holiday Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Harmony Holiday Points Tracker — a retro style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#7152c6",
+    "border": "#c7d8da",
+    "header": "#39c6d2",
+    "rowOdd": "#dee5e5",
+    "rowEven": "#f0f3f4",
+    "checkmark": "#4d22c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "retro reward tracker",
+    "free holiday chart"
+  ]
+}

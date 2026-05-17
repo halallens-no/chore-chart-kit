@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-blank-template",
+  "title": "Golden Holiday Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Golden Holiday Open Template — a illustrated style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#adc355",
+    "border": "#dad3c7",
+    "header": "#d2a34c",
+    "rowOdd": "#edebe8",
+    "rowEven": "#f6f4f2",
+    "checkmark": "#a2c322",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "illustrated blank template",
+    "free holiday chart"
+  ]
+}

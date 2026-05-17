@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-gradient-195-blank-template",
+  "title": "Frosty Holiday Blank Canvas",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Frosty Holiday Blank Canvas — a gradient style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d9dc3c",
+    "border": "#dac7ca",
+    "header": "#f13a55",
+    "rowOdd": "#ebe6e7",
+    "rowEven": "#f7f5f5",
+    "checkmark": "#c0c322",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "gradient blank template",
+    "free holiday chart"
+  ]
+}

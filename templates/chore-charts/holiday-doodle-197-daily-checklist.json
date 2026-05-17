@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-doodle-197-daily-checklist",
+  "title": "Inspiring Holiday Daily Log",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Inspiring Holiday Daily Log — a doodle style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5049ce",
+    "border": "#c7d5da",
+    "header": "#36b7de",
+    "rowOdd": "#e9edee",
+    "rowEven": "#f4f6f7",
+    "checkmark": "#2a22c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "doodle daily checklist",
+    "free holiday chart"
+  ]
+}

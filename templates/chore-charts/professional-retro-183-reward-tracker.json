@@ -1,0 +1,24 @@
+{
+  "slug": "professional-retro-183-reward-tracker",
+  "title": "Gentle Professional Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Gentle Professional Points Tracker — a retro style reward tracker with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#7d53c4",
+    "border": "#c7dad9",
+    "header": "#2cb7b3",
+    "rowOdd": "#dfe5e5",
+    "rowEven": "#f3f6f6",
+    "checkmark": "#5d22c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional reward tracker",
+    "printable reward tracker for kids",
+    "retro reward tracker",
+    "free professional chart"
+  ]
+}

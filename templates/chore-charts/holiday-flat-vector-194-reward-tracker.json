@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-flat-vector-194-reward-tracker",
+  "title": "Warm Holiday Reward Board",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Warm Holiday Reward Board — a flat vector style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5b94bc",
+    "border": "#c7dacc",
+    "header": "#3bc15b",
+    "rowOdd": "#e2e8e3",
+    "rowEven": "#f2f5f3",
+    "checkmark": "#2280c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "flat-vector reward tracker",
+    "free holiday chart"
+  ]
+}

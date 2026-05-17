@@ -1,0 +1,25 @@
+{
+  "slug": "mahogany-monthly-task-calendar",
+  "title": "Mahogany Monthly Task Calendar",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Classic mahogany monthly task calendar with a timeless professional look. Rich tones suitable for executive offices.",
+  "colors": {
+    "header": "#4e342e",
+    "headerText": "#efebe9",
+    "accent": "#a1887f",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(239,235,233,0.90)",
+    "border": "#d7ccc8",
+    "checkmark": "#6d4c41"
+  },
+  "tags": [
+    "monthly task calendar",
+    "executive office planner",
+    "mahogany calendar",
+    "professional monthly chart",
+    "office task calendar"
+  ]
+}

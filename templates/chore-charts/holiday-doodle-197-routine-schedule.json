@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-doodle-197-routine-schedule",
+  "title": "Urban Holiday Schedule Chart",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Urban Holiday Schedule Chart — a doodle style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#de3979",
+    "border": "#d4c7da",
+    "header": "#b436f4",
+    "rowOdd": "#e9e6eb",
+    "rowEven": "#f8f7f9",
+    "checkmark": "#c32260",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "doodle routine schedule",
+    "free holiday chart"
+  ]
+}

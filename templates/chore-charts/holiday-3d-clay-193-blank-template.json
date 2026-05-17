@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-3d-clay-193-blank-template",
+  "title": "Harmony Holiday Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Harmony Holiday Open Template — a 3d clay style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4b47d1",
+    "border": "#c7d6da",
+    "header": "#45c7e4",
+    "rowOdd": "#dfe5e6",
+    "rowEven": "#f1f4f4",
+    "checkmark": "#2722c3",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "3d-clay blank template",
+    "free holiday chart"
+  ]
+}

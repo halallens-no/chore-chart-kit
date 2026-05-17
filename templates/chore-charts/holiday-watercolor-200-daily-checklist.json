@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-200-daily-checklist",
+  "title": "Mellow Holiday Checklist",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Mellow Holiday Checklist — a watercolor style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#8047d1",
+    "border": "#c7cbda",
+    "header": "#2d51e1",
+    "rowOdd": "#e9eaee",
+    "rowEven": "#f2f3f5",
+    "checkmark": "#6522c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "watercolor daily checklist",
+    "free holiday chart"
+  ]
+}

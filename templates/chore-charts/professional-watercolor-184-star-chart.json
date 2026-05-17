@@ -1,0 +1,24 @@
+{
+  "slug": "professional-watercolor-184-star-chart",
+  "title": "Dreamy Professional Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Dreamy Professional Star Board — a watercolor style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#add93f",
+    "border": "#daccc7",
+    "header": "#cc4312",
+    "rowOdd": "#ebe7e6",
+    "rowEven": "#f6f4f3",
+    "checkmark": "#95c322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "watercolor star chart",
+    "free professional chart"
+  ]
+}

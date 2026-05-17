@@ -1,0 +1,24 @@
+{
+  "slug": "professional-retro-183-star-chart",
+  "title": "Zen Professional Star Chart",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Zen Professional Star Chart — a retro style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5bb6bc",
+    "border": "#c7dacd",
+    "header": "#35ac57",
+    "rowOdd": "#e9edea",
+    "rowEven": "#f5f8f6",
+    "checkmark": "#22b8c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "retro star chart",
+    "free professional chart"
+  ]
+}

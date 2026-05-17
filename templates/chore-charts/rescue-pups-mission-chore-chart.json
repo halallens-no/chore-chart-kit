@@ -1,0 +1,25 @@
+{
+  "slug": "rescue-pups-mission-chore-chart",
+  "title": "Rescue Pups Mission Chart",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "rescue-pups",
+  "description": "Bold 3D-clay rescue puppies in bright team colors — each wearing an embossed mission badge and miniature helmet. Fire-engine red, sky blue, and sunburst yellow form an energetic hero palette. Every completed chore earns a paw-stamp of honor on this action-packed weekly mission chart.",
+  "colors": {
+    "header": "#BD221F",
+    "headerText": "#FFFFFF",
+    "accent": "#FEE301",
+    "rowEven": "rgba(232,245,255,0.90)",
+    "rowOdd": "rgba(255,250,220,0.80)",
+    "border": "#099EDA",
+    "checkmark": "#099EDA"
+  },
+  "tags": [
+    "rescue puppy chore chart",
+    "hero dog chore chart for kids",
+    "puppy mission printable",
+    "rescue pups weekly chart",
+    "bold dog chore chart printable"
+  ]
+}

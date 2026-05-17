@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-3d-clay-193-monthly-calendar",
+  "title": "Mellow Holiday Calendar Board",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Mellow Holiday Calendar Board — a 3d clay style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#8349cf",
+    "border": "#c7cbda",
+    "header": "#3c5fe0",
+    "rowOdd": "#e4e5e9",
+    "rowEven": "#f8f8f9",
+    "checkmark": "#6822c3",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "3d-clay monthly calendar",
+    "free holiday chart"
+  ]
+}

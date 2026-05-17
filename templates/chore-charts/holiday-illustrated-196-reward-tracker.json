@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-reward-tracker",
+  "title": "Calm Holiday Prize Chart",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Calm Holiday Prize Chart — a illustrated style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d24548",
+    "border": "#dac7d2",
+    "header": "#c31977",
+    "rowOdd": "#e4dde1",
+    "rowEven": "#f8f6f7",
+    "checkmark": "#c32225",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "illustrated reward tracker",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-daily-checklist",
+  "title": "Glossy Holiday Checklist",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Glossy Holiday Checklist — a illustrated style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d6c041",
+    "border": "#dac7ca",
+    "header": "#e82037",
+    "rowOdd": "#e7e0e1",
+    "rowEven": "#f8f6f6",
+    "checkmark": "#c3aa22",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "illustrated daily checklist",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "sage-green-daily-task-list",
+  "title": "Sage Green Daily Task List",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Calming sage green daily task list for a balanced work environment. Gentle tones that reduce visual stress during long office hours.",
+  "colors": {
+    "header": "#4a5a3a",
+    "headerText": "#f0fff4",
+    "accent": "#68d391",
+    "rowEven": "rgba(255,255,255,0.92)",
+    "rowOdd": "rgba(240,255,244,0.88)",
+    "border": "#c6f6d5",
+    "checkmark": "#48bb78"
+  },
+  "tags": [
+    "daily task list",
+    "sage green planner",
+    "office checklist",
+    "professional daily list",
+    "workplace to-do"
+  ]
+}

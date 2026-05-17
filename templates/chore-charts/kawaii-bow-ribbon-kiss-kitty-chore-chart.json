@@ -1,0 +1,25 @@
+{
+  "slug": "kawaii-bow-ribbon-kiss-kitty-chore-chart",
+  "title": "Ribbon Kiss Kitty",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "kawaii-bow",
+  "description": "A minimalist kawaii kitty with an oversized candy-red bow reigns over soft blush rows and snow-white columns. Clean, iconic lines and a strict pink-white-red palette deliver that instantly recognisable bow-kitty charm — simple, joyful, and irresistibly cute.",
+  "colors": {
+    "header": "#E63950",
+    "headerText": "#FFFFFF",
+    "accent": "#FF8FAB",
+    "rowEven": "rgba(255,240,244,0.90)",
+    "rowOdd": "rgba(255,255,255,0.97)",
+    "border": "#FFB3C1",
+    "checkmark": "#E63950"
+  },
+  "tags": [
+    "kawaii bow chore chart",
+    "bow kitty chore chart printable",
+    "pink white red chore chart kids",
+    "kawaii kitty reward chart",
+    "cute bow cat chore chart"
+  ]
+}

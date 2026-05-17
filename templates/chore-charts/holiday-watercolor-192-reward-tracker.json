@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-192-reward-tracker",
+  "title": "Hazy Holiday Goal Chart",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Hazy Holiday Goal Chart — a watercolor style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c354b6",
+    "border": "#c7c8da",
+    "header": "#3035c2",
+    "rowOdd": "#eaeaef",
+    "rowEven": "#eeeff3",
+    "checkmark": "#c322b0",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "watercolor reward tracker",
+    "free holiday chart"
+  ]
+}

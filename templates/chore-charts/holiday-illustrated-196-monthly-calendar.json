@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-monthly-calendar",
+  "title": "Noble Holiday Monthly Planner",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Noble Holiday Monthly Planner — a illustrated style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#6fbb5d",
+    "border": "#d5dac7",
+    "header": "#96b239",
+    "rowOdd": "#e3e4dd",
+    "rowEven": "#f7f8f6",
+    "checkmark": "#42c322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "illustrated monthly calendar",
+    "free holiday chart"
+  ]
+}

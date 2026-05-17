@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-3d-clay-193-routine-schedule",
+  "title": "Delicate Holiday Time Planner",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Delicate Holiday Time Planner — a 3d clay style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c9bc4f",
+    "border": "#dac7d0",
+    "header": "#d42e7f",
+    "rowOdd": "#ede8eb",
+    "rowEven": "#f8f5f6",
+    "checkmark": "#c3b322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "3d-clay routine schedule",
+    "free holiday chart"
+  ]
+}

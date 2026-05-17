@@ -1,0 +1,24 @@
+{
+  "slug": "professional-watercolor-184-daily-checklist",
+  "title": "Funky Professional To-Do Chart",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Funky Professional To-Do Chart — a watercolor style daily checklist with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3d94db",
+    "border": "#c7dad7",
+    "header": "#11e6ca",
+    "rowOdd": "#dfe6e5",
+    "rowEven": "#f8faf9",
+    "checkmark": "#227ac3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional daily checklist",
+    "printable daily checklist for kids",
+    "watercolor daily checklist",
+    "free professional chart"
+  ]
+}

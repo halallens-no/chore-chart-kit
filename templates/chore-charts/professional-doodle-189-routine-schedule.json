@@ -1,0 +1,24 @@
+{
+  "slug": "professional-doodle-189-routine-schedule",
+  "title": "Inspiring Professional Schedule Chart",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Inspiring Professional Schedule Chart — a doodle style routine schedule with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5762c0",
+    "border": "#c7d4da",
+    "header": "#42a2cb",
+    "rowOdd": "#dde2e4",
+    "rowEven": "#f7f9f9",
+    "checkmark": "#2232c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional routine schedule",
+    "printable routine schedule for kids",
+    "doodle routine schedule",
+    "free professional chart"
+  ]
+}

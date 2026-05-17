@@ -1,0 +1,25 @@
+{
+  "slug": "espresso-monthly-duty-calendar",
+  "title": "Espresso Monthly Duty Calendar",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Warm espresso-toned monthly duty calendar. Executive aesthetic for long-term office responsibility tracking.",
+  "colors": {
+    "header": "#3e2723",
+    "headerText": "#efebe9",
+    "accent": "#a1887f",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(239,235,233,0.90)",
+    "border": "#d7ccc8",
+    "checkmark": "#795548"
+  },
+  "tags": [
+    "monthly duty calendar",
+    "office monthly tracker",
+    "espresso planner",
+    "executive calendar",
+    "workplace duty schedule"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "professional-collage-182-star-chart",
+  "title": "Quiet Professional Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Quiet Professional Star Board — a collage style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#52c694",
+    "border": "#cfdac7",
+    "header": "#66b628",
+    "rowOdd": "#ebeeea",
+    "rowEven": "#f4f6f3",
+    "checkmark": "#22c37d",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "collage star chart",
+    "free professional chart"
+  ]
+}

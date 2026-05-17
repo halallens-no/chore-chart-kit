@@ -1,0 +1,25 @@
+{
+  "slug": "rainbow-kitty-dollhouse-chore-chart",
+  "title": "Rainbow Kitty Dollhouse",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "dollhouse-kitty",
+  "description": "Step inside a dreamy cat-filled dollhouse bursting with hot pink, cotton-candy lavender, and shimmer rainbow bows. Every row is a new room where kawaii clay kittens play dress-up and leave bow-tied paw prints across your week.",
+  "colors": {
+    "header": "#FF4FA0",
+    "headerText": "#FFFFFF",
+    "accent": "#C57BFF",
+    "rowEven": "rgba(255,240,252,0.93)",
+    "rowOdd": "rgba(248,228,255,0.90)",
+    "border": "#FFB3E0",
+    "checkmark": "#FF4FA0"
+  },
+  "tags": [
+    "kitty dollhouse chore chart",
+    "kawaii cat chore chart",
+    "pink kitty printable",
+    "rainbow cat chore chart for kids",
+    "dollhouse printable chart"
+  ]
+}

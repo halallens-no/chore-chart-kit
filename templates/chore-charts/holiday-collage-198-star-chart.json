@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-collage-198-star-chart",
+  "title": "Warm Holiday Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Warm Holiday Star Board — a collage style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3ab7dd",
+    "border": "#c7dacb",
+    "header": "#0bc032",
+    "rowOdd": "#e4eae5",
+    "rowEven": "#eef3ef",
+    "checkmark": "#229dc3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "collage star chart",
+    "free holiday chart"
+  ]
+}

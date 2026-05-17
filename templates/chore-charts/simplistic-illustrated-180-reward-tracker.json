@@ -1,0 +1,24 @@
+{
+  "slug": "simplistic-illustrated-180-reward-tracker",
+  "title": "Serene Simplistic Goal Chart",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "simplistic",
+  "description": "Serene Simplistic Goal Chart — a illustrated style reward tracker with simplistic theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c85088",
+    "border": "#d0c7da",
+    "header": "#7f35d4",
+    "rowOdd": "#eae8ed",
+    "rowEven": "#f4f3f6",
+    "checkmark": "#c3226d",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "simplistic reward tracker",
+    "printable reward tracker for kids",
+    "illustrated reward tracker",
+    "free simplistic chart"
+  ]
+}

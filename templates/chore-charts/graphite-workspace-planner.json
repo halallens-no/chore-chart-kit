@@ -1,0 +1,25 @@
+{
+  "slug": "graphite-workspace-planner",
+  "title": "Graphite Workspace Planner",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Ultra-clean graphite workspace planner. Dark neutral tones with high contrast text for shared office bulletin boards.",
+  "colors": {
+    "header": "#1f2937",
+    "headerText": "#f9fafb",
+    "accent": "#9ca3af",
+    "rowEven": "rgba(255,255,255,0.94)",
+    "rowOdd": "rgba(249,250,251,0.94)",
+    "border": "#d1d5db",
+    "checkmark": "#4b5563"
+  },
+  "tags": [
+    "workspace planner",
+    "office bulletin board",
+    "graphite planner",
+    "shared office chart",
+    "workplace organization"
+  ]
+}

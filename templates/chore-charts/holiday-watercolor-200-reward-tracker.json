@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-200-reward-tracker",
+  "title": "Dreamy Holiday Prize Chart",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Dreamy Holiday Prize Chart — a watercolor style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#6bc058",
+    "border": "#dacec7",
+    "header": "#c46536",
+    "rowOdd": "#e6e2e0",
+    "rowEven": "#f2f0ee",
+    "checkmark": "#3fc322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "watercolor reward tracker",
+    "free holiday chart"
+  ]
+}

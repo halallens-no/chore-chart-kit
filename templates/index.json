@@ -2,5 +2,717 @@
   "$schema": "./schema.json",
   "generatedAt": "2026-05-17",
   "version": "0.1.0",
-  "templates": []
+  "totalTemplates": 100,
+  "byFormat": {
+    "weekly-grid": 15,
+    "daily-checklist": 15,
+    "star-chart": 14,
+    "reward-tracker": 14,
+    "multi-kid": 0,
+    "blank-template": 14,
+    "monthly-calendar": 14,
+    "routine-schedule": 14
+  },
+  "templates": [
+    {
+      "slug": "kawaii-bow-ribbon-kiss-kitty-chore-chart",
+      "title": "Ribbon Kiss Kitty",
+      "format": "weekly-grid",
+      "theme": "kawaii-bow",
+      "file": "chore-charts/kawaii-bow-ribbon-kiss-kitty-chore-chart.json"
+    },
+    {
+      "slug": "creature-catcher-quest-chore-chart",
+      "title": "Creature Catcher Quest",
+      "format": "weekly-grid",
+      "theme": "pocket-creatures",
+      "file": "chore-charts/creature-catcher-quest-chore-chart.json"
+    },
+    {
+      "slug": "ice-castle-crystal-palace-chore-chart",
+      "title": "Crystal Palace Chore Chart",
+      "format": "weekly-grid",
+      "theme": "ice-castle",
+      "file": "chore-charts/ice-castle-crystal-palace-chore-chart.json"
+    },
+    {
+      "slug": "pixel-block-builder-voxel-chore-chart",
+      "title": "Pixel Block Builder Chart",
+      "format": "weekly-grid",
+      "theme": "pixel-world",
+      "file": "chore-charts/pixel-block-builder-voxel-chore-chart.json"
+    },
+    {
+      "slug": "cobalt-daily-office-checklist",
+      "title": "Cobalt Daily Office Checklist",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/cobalt-daily-office-checklist.json"
+    },
+    {
+      "slug": "burgundy-executive-daily-agenda",
+      "title": "Burgundy Executive Daily Agenda",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/burgundy-executive-daily-agenda.json"
+    },
+    {
+      "slug": "sage-green-daily-task-list",
+      "title": "Sage Green Daily Task List",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/sage-green-daily-task-list.json"
+    },
+    {
+      "slug": "pewter-neutral-daily-planner",
+      "title": "Pewter Neutral Daily Planner",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/pewter-neutral-daily-planner.json"
+    },
+    {
+      "slug": "holiday-3d-clay-193-star-chart",
+      "title": "Airy Holiday Star Board",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-3d-clay-193-star-chart.json"
+    },
+    {
+      "slug": "holiday-flat-vector-194-star-chart",
+      "title": "Bright Holiday Star Tracker",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-flat-vector-194-star-chart.json"
+    },
+    {
+      "slug": "holiday-gradient-195-star-chart",
+      "title": "Calm Holiday Star Rewards",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-star-chart.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-star-chart",
+      "title": "Tranquil Holiday Star Rewards",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-star-chart.json"
+    },
+    {
+      "slug": "holiday-retro-191-reward-tracker",
+      "title": "Harmony Holiday Points Tracker",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-191-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-watercolor-192-reward-tracker",
+      "title": "Hazy Holiday Goal Chart",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-192-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-3d-clay-193-reward-tracker",
+      "title": "Sunny Holiday Goal Chart",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-3d-clay-193-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-flat-vector-194-reward-tracker",
+      "title": "Warm Holiday Reward Board",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-flat-vector-194-reward-tracker.json"
+    },
+    {
+      "slug": "midnight-professional-blank-chart",
+      "title": "Midnight Professional Blank Chart",
+      "format": "blank-template",
+      "theme": "professional",
+      "file": "chore-charts/midnight-professional-blank-chart.json"
+    },
+    {
+      "slug": "plum-custom-office-template",
+      "title": "Plum Custom Office Template",
+      "format": "blank-template",
+      "theme": "professional",
+      "file": "chore-charts/plum-custom-office-template.json"
+    },
+    {
+      "slug": "holiday-retro-191-blank-template",
+      "title": "Airy Holiday Open Template",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-191-blank-template.json"
+    },
+    {
+      "slug": "holiday-watercolor-192-blank-template",
+      "title": "Playful Holiday Open Template",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-192-blank-template.json"
+    },
+    {
+      "slug": "indigo-monthly-office-calendar",
+      "title": "Indigo Monthly Office Calendar",
+      "format": "monthly-calendar",
+      "theme": "professional",
+      "file": "chore-charts/indigo-monthly-office-calendar.json"
+    },
+    {
+      "slug": "espresso-monthly-duty-calendar",
+      "title": "Espresso Monthly Duty Calendar",
+      "format": "monthly-calendar",
+      "theme": "professional",
+      "file": "chore-charts/espresso-monthly-duty-calendar.json"
+    },
+    {
+      "slug": "iron-gray-monthly-accountability-chart",
+      "title": "Iron Gray Monthly Accountability Chart",
+      "format": "monthly-calendar",
+      "theme": "professional",
+      "file": "chore-charts/iron-gray-monthly-accountability-chart.json"
+    },
+    {
+      "slug": "mahogany-monthly-task-calendar",
+      "title": "Mahogany Monthly Task Calendar",
+      "format": "monthly-calendar",
+      "theme": "professional",
+      "file": "chore-charts/mahogany-monthly-task-calendar.json"
+    },
+    {
+      "slug": "olive-green-office-routine-schedule",
+      "title": "Olive Green Office Routine Schedule",
+      "format": "routine-schedule",
+      "theme": "professional",
+      "file": "chore-charts/olive-green-office-routine-schedule.json"
+    },
+    {
+      "slug": "copper-tone-daily-routine-planner",
+      "title": "Copper Tone Daily Routine Planner",
+      "format": "routine-schedule",
+      "theme": "professional",
+      "file": "chore-charts/copper-tone-daily-routine-planner.json"
+    },
+    {
+      "slug": "holiday-watercolor-200-routine-schedule",
+      "title": "Playful Holiday Time Planner",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-200-routine-schedule.json"
+    },
+    {
+      "slug": "professional-illustrated-188-routine-schedule",
+      "title": "Funky Professional Flow Chart",
+      "format": "routine-schedule",
+      "theme": "professional",
+      "file": "chore-charts/professional-illustrated-188-routine-schedule.json"
+    },
+    {
+      "slug": "rescue-pups-mission-chore-chart",
+      "title": "Rescue Pups Mission Chart",
+      "format": "weekly-grid",
+      "theme": "rescue-pups",
+      "file": "chore-charts/rescue-pups-mission-chore-chart.json"
+    },
+    {
+      "slug": "holiday-gradient-195-daily-checklist",
+      "title": "Dreamy Holiday Day Tracker",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-daily-checklist.json"
+    },
+    {
+      "slug": "holiday-doodle-197-star-chart",
+      "title": "Delicate Holiday Gold Stars",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-star-chart.json"
+    },
+    {
+      "slug": "holiday-gradient-195-reward-tracker",
+      "title": "Frosty Holiday Achievement Board",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-3d-clay-193-blank-template",
+      "title": "Harmony Holiday Open Template",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-3d-clay-193-blank-template.json"
+    },
+    {
+      "slug": "professional-collage-190-monthly-calendar",
+      "title": "Funky Professional Calendar Board",
+      "format": "monthly-calendar",
+      "theme": "professional",
+      "file": "chore-charts/professional-collage-190-monthly-calendar.json"
+    },
+    {
+      "slug": "professional-doodle-189-routine-schedule",
+      "title": "Inspiring Professional Schedule Chart",
+      "format": "routine-schedule",
+      "theme": "professional",
+      "file": "chore-charts/professional-doodle-189-routine-schedule.json"
+    },
+    {
+      "slug": "gothic-bunny-midnight-skull-chore-chart",
+      "title": "Midnight Skull Bunnies",
+      "format": "weekly-grid",
+      "theme": "gothic-bunny",
+      "file": "chore-charts/gothic-bunny-midnight-skull-chore-chart.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-daily-checklist",
+      "title": "Glossy Holiday Checklist",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-daily-checklist.json"
+    },
+    {
+      "slug": "holiday-collage-198-star-chart",
+      "title": "Warm Holiday Star Board",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-star-chart.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-reward-tracker",
+      "title": "Calm Holiday Prize Chart",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-flat-vector-194-blank-template",
+      "title": "Cozy Holiday DIY Chart",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-flat-vector-194-blank-template.json"
+    },
+    {
+      "slug": "holiday-retro-191-monthly-calendar",
+      "title": "Radiant Holiday Monthly Grid",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-191-monthly-calendar.json"
+    },
+    {
+      "slug": "professional-collage-190-routine-schedule",
+      "title": "Lively Professional Time Planner",
+      "format": "routine-schedule",
+      "theme": "professional",
+      "file": "chore-charts/professional-collage-190-routine-schedule.json"
+    },
+    {
+      "slug": "tropical-island-hibiscus-voyager-chore-chart",
+      "title": "Hibiscus Voyager",
+      "format": "weekly-grid",
+      "theme": "tropical-island",
+      "file": "chore-charts/tropical-island-hibiscus-voyager-chore-chart.json"
+    },
+    {
+      "slug": "holiday-doodle-197-daily-checklist",
+      "title": "Inspiring Holiday Daily Log",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-daily-checklist.json"
+    },
+    {
+      "slug": "holiday-retro-199-star-chart",
+      "title": "Peaceful Holiday Star Board",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-199-star-chart.json"
+    },
+    {
+      "slug": "holiday-doodle-197-reward-tracker",
+      "title": "Glossy Holiday Points Tracker",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-gradient-195-blank-template",
+      "title": "Frosty Holiday Blank Canvas",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-blank-template.json"
+    },
+    {
+      "slug": "holiday-watercolor-192-monthly-calendar",
+      "title": "Quiet Holiday Month View",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-192-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-retro-191-routine-schedule",
+      "title": "Fresh Holiday Flow Chart",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-191-routine-schedule.json"
+    },
+    {
+      "slug": "sunshine-singalong-toddler-chore-chart",
+      "title": "Sunshine Singalong",
+      "format": "weekly-grid",
+      "theme": "nursery-song",
+      "file": "chore-charts/sunshine-singalong-toddler-chore-chart.json"
+    },
+    {
+      "slug": "holiday-collage-198-daily-checklist",
+      "title": "Joyful Holiday Checklist",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-daily-checklist.json"
+    },
+    {
+      "slug": "holiday-watercolor-200-star-chart",
+      "title": "Zen Holiday Star Board",
+      "format": "star-chart",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-200-star-chart.json"
+    },
+    {
+      "slug": "holiday-collage-198-reward-tracker",
+      "title": "Happy Holiday Points Tracker",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-blank-template",
+      "title": "Golden Holiday Open Template",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-blank-template.json"
+    },
+    {
+      "slug": "holiday-3d-clay-193-monthly-calendar",
+      "title": "Mellow Holiday Calendar Board",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-3d-clay-193-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-watercolor-192-routine-schedule",
+      "title": "Organic Holiday Schedule Chart",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-192-routine-schedule.json"
+    },
+    {
+      "slug": "rainbow-kitty-dollhouse-chore-chart",
+      "title": "Rainbow Kitty Dollhouse",
+      "format": "weekly-grid",
+      "theme": "dollhouse-kitty",
+      "file": "chore-charts/rainbow-kitty-dollhouse-chore-chart.json"
+    },
+    {
+      "slug": "holiday-retro-199-daily-checklist",
+      "title": "Cheerful Holiday Day Tracker",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-199-daily-checklist.json"
+    },
+    {
+      "slug": "professional-doodle-181-star-chart",
+      "title": "Funky Professional Star Tracker",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-doodle-181-star-chart.json"
+    },
+    {
+      "slug": "holiday-retro-199-reward-tracker",
+      "title": "Lively Holiday Points Tracker",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-199-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-doodle-197-blank-template",
+      "title": "Harmony Holiday Custom Chart",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-blank-template.json"
+    },
+    {
+      "slug": "holiday-flat-vector-194-monthly-calendar",
+      "title": "Zen Holiday Monthly Planner",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-flat-vector-194-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-3d-clay-193-routine-schedule",
+      "title": "Delicate Holiday Time Planner",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-3d-clay-193-routine-schedule.json"
+    },
+    {
+      "slug": "blue-puppy-adventure-chore-chart",
+      "title": "Blue Pup Adventure Chart",
+      "format": "weekly-grid",
+      "theme": "blue-puppy",
+      "file": "chore-charts/blue-puppy-adventure-chore-chart.json"
+    },
+    {
+      "slug": "holiday-watercolor-200-daily-checklist",
+      "title": "Mellow Holiday Checklist",
+      "format": "daily-checklist",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-200-daily-checklist.json"
+    },
+    {
+      "slug": "professional-collage-182-star-chart",
+      "title": "Quiet Professional Star Board",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-collage-182-star-chart.json"
+    },
+    {
+      "slug": "holiday-watercolor-200-reward-tracker",
+      "title": "Dreamy Holiday Prize Chart",
+      "format": "reward-tracker",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-200-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-collage-198-blank-template",
+      "title": "Bright Holiday Open Template",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-blank-template.json"
+    },
+    {
+      "slug": "holiday-gradient-195-monthly-calendar",
+      "title": "Joyful Holiday Monthly Planner",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-flat-vector-194-routine-schedule",
+      "title": "Vivid Holiday Schedule Chart",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-flat-vector-194-routine-schedule.json"
+    },
+    {
+      "slug": "executive-navy-weekly-office-planner",
+      "title": "Executive Navy Weekly Planner",
+      "format": "weekly-grid",
+      "theme": "professional",
+      "file": "chore-charts/executive-navy-weekly-office-planner.json"
+    },
+    {
+      "slug": "professional-watercolor-184-daily-checklist",
+      "title": "Funky Professional To-Do Chart",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/professional-watercolor-184-daily-checklist.json"
+    },
+    {
+      "slug": "professional-retro-183-star-chart",
+      "title": "Zen Professional Star Chart",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-retro-183-star-chart.json"
+    },
+    {
+      "slug": "simplistic-illustrated-180-reward-tracker",
+      "title": "Serene Simplistic Goal Chart",
+      "format": "reward-tracker",
+      "theme": "simplistic",
+      "file": "chore-charts/simplistic-illustrated-180-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-retro-199-blank-template",
+      "title": "Hazy Holiday Custom Chart",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-199-blank-template.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-monthly-calendar",
+      "title": "Noble Holiday Monthly Planner",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-gradient-195-routine-schedule",
+      "title": "Hazy Holiday Routine Board",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-gradient-195-routine-schedule.json"
+    },
+    {
+      "slug": "charcoal-modern-office-task-board",
+      "title": "Charcoal Modern Task Board",
+      "format": "weekly-grid",
+      "theme": "professional",
+      "file": "chore-charts/charcoal-modern-office-task-board.json"
+    },
+    {
+      "slug": "professional-3d-clay-185-daily-checklist",
+      "title": "Jolly Professional Day Tracker",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/professional-3d-clay-185-daily-checklist.json"
+    },
+    {
+      "slug": "professional-watercolor-184-star-chart",
+      "title": "Dreamy Professional Star Board",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-watercolor-184-star-chart.json"
+    },
+    {
+      "slug": "professional-doodle-181-reward-tracker",
+      "title": "Bold Professional Points Tracker",
+      "format": "reward-tracker",
+      "theme": "professional",
+      "file": "chore-charts/professional-doodle-181-reward-tracker.json"
+    },
+    {
+      "slug": "holiday-watercolor-200-blank-template",
+      "title": "Dainty Holiday Blank Canvas",
+      "format": "blank-template",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-watercolor-200-blank-template.json"
+    },
+    {
+      "slug": "holiday-doodle-197-monthly-calendar",
+      "title": "Organic Holiday Monthly Planner",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-illustrated-196-routine-schedule",
+      "title": "Happy Holiday Time Planner",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-illustrated-196-routine-schedule.json"
+    },
+    {
+      "slug": "sapphire-executive-task-sheet",
+      "title": "Sapphire Executive Task Sheet",
+      "format": "weekly-grid",
+      "theme": "professional",
+      "file": "chore-charts/sapphire-executive-task-sheet.json"
+    },
+    {
+      "slug": "professional-flat-vector-186-daily-checklist",
+      "title": "Urban Professional Day Tracker",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/professional-flat-vector-186-daily-checklist.json"
+    },
+    {
+      "slug": "professional-3d-clay-185-star-chart",
+      "title": "Hazy Professional Star Rewards",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-3d-clay-185-star-chart.json"
+    },
+    {
+      "slug": "professional-collage-182-reward-tracker",
+      "title": "Quiet Professional Points Tracker",
+      "format": "reward-tracker",
+      "theme": "professional",
+      "file": "chore-charts/professional-collage-182-reward-tracker.json"
+    },
+    {
+      "slug": "simplistic-gradient-179-blank-template",
+      "title": "Royal Simplistic Open Template",
+      "format": "blank-template",
+      "theme": "simplistic",
+      "file": "chore-charts/simplistic-gradient-179-blank-template.json"
+    },
+    {
+      "slug": "holiday-collage-198-monthly-calendar",
+      "title": "Cozy Holiday Calendar Chart",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-doodle-197-routine-schedule",
+      "title": "Urban Holiday Schedule Chart",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-doodle-197-routine-schedule.json"
+    },
+    {
+      "slug": "teal-corporate-weekly-tracker",
+      "title": "Teal Corporate Weekly Tracker",
+      "format": "weekly-grid",
+      "theme": "professional",
+      "file": "chore-charts/teal-corporate-weekly-tracker.json"
+    },
+    {
+      "slug": "professional-gradient-187-daily-checklist",
+      "title": "Dainty Professional Daily Planner",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/professional-gradient-187-daily-checklist.json"
+    },
+    {
+      "slug": "professional-flat-vector-186-star-chart",
+      "title": "Radiant Professional Star Board",
+      "format": "star-chart",
+      "theme": "professional",
+      "file": "chore-charts/professional-flat-vector-186-star-chart.json"
+    },
+    {
+      "slug": "professional-retro-183-reward-tracker",
+      "title": "Gentle Professional Points Tracker",
+      "format": "reward-tracker",
+      "theme": "professional",
+      "file": "chore-charts/professional-retro-183-reward-tracker.json"
+    },
+    {
+      "slug": "simplistic-illustrated-180-blank-template",
+      "title": "Natural Simplistic Open Template",
+      "format": "blank-template",
+      "theme": "simplistic",
+      "file": "chore-charts/simplistic-illustrated-180-blank-template.json"
+    },
+    {
+      "slug": "holiday-retro-199-monthly-calendar",
+      "title": "Royal Holiday Calendar Chart",
+      "format": "monthly-calendar",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-retro-199-monthly-calendar.json"
+    },
+    {
+      "slug": "holiday-collage-198-routine-schedule",
+      "title": "Dainty Holiday Routine Board",
+      "format": "routine-schedule",
+      "theme": "holiday",
+      "file": "chore-charts/holiday-collage-198-routine-schedule.json"
+    },
+    {
+      "slug": "graphite-workspace-planner",
+      "title": "Graphite Workspace Planner",
+      "format": "weekly-grid",
+      "theme": "professional",
+      "file": "chore-charts/graphite-workspace-planner.json"
+    },
+    {
+      "slug": "professional-illustrated-188-daily-checklist",
+      "title": "Organic Professional To-Do Chart",
+      "format": "daily-checklist",
+      "theme": "professional",
+      "file": "chore-charts/professional-illustrated-188-daily-checklist.json"
+    }
+  ]
 }

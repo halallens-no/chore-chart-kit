@@ -1,0 +1,24 @@
+{
+  "slug": "professional-collage-190-routine-schedule",
+  "title": "Lively Professional Time Planner",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Lively Professional Time Planner — a collage style routine schedule with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4fc982",
+    "border": "#d9dac7",
+    "header": "#b4b725",
+    "rowOdd": "#ecece7",
+    "rowEven": "#f3f4f0",
+    "checkmark": "#22c365",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional routine schedule",
+    "printable routine schedule for kids",
+    "collage routine schedule",
+    "free professional chart"
+  ]
+}

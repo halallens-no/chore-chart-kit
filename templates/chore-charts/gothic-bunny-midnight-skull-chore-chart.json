@@ -1,0 +1,25 @@
+{
+  "slug": "gothic-bunny-midnight-skull-chore-chart",
+  "title": "Midnight Skull Bunnies",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "gothic-bunny",
+  "description": "Edgy-cute punk bunnies stalk the grid in deep midnight indigo and neon lilac. Skull bows, crescent moons, and crossbone details give every row that gothic-kawaii attitude — spooky enough to be cool, sweet enough for kids.",
+  "colors": {
+    "header": "#1A0A2E",
+    "headerText": "#D4AAFF",
+    "accent": "#A855F7",
+    "rowEven": "rgba(26,10,46,0.07)",
+    "rowOdd": "rgba(255,255,255,0.95)",
+    "border": "#7C3AED",
+    "checkmark": "#C084FC"
+  },
+  "tags": [
+    "gothic bunny chore chart",
+    "punk kawaii chore chart",
+    "skull chore chart printable",
+    "edgy kawaii kids chore chart",
+    "gothic purple bunny reward chart"
+  ]
+}

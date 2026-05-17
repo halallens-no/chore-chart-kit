@@ -1,0 +1,25 @@
+{
+  "slug": "ice-castle-crystal-palace-chore-chart",
+  "title": "Crystal Palace Chore Chart",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "ice-castle",
+  "description": "Shimmering ice-blue towers rise from a lavender mist in this magical watercolor palace scene. Crystalline snowflakes drift across pale silver rows, while deep midnight blue headers anchor the chart with royal elegance. A fairytale weekly chore chart for kids who dream of enchanted kingdoms.",
+  "colors": {
+    "header": "#1E3A5F",
+    "headerText": "#E8F4FF",
+    "accent": "#A7D3E0",
+    "rowEven": "rgba(232,244,255,0.90)",
+    "rowOdd": "rgba(220,210,240,0.70)",
+    "border": "#C8B6E2",
+    "checkmark": "#5B9EC9"
+  },
+  "tags": [
+    "ice castle chore chart",
+    "frozen theme chore chart kids",
+    "crystal palace printable chart",
+    "winter wonderland chore chart",
+    "snowflake chore chart for kids"
+  ]
+}

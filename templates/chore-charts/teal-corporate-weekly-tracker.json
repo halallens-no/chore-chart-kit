@@ -1,0 +1,25 @@
+{
+  "slug": "teal-corporate-weekly-tracker",
+  "title": "Teal Corporate Weekly Tracker",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Calming teal corporate tracker for weekly office duties. Professional color scheme suitable for any workplace environment.",
+  "colors": {
+    "header": "#0d4f4f",
+    "headerText": "#e6fffa",
+    "accent": "#38b2ac",
+    "rowEven": "rgba(255,255,255,0.92)",
+    "rowOdd": "rgba(230,255,250,0.88)",
+    "border": "#b2dfdb",
+    "checkmark": "#2c7a7b"
+  },
+  "tags": [
+    "corporate task tracker",
+    "office weekly planner",
+    "teal planner",
+    "workplace chore chart",
+    "professional template"
+  ]
+}

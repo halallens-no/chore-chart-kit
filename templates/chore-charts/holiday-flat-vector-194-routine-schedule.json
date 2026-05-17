@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-flat-vector-194-routine-schedule",
+  "title": "Vivid Holiday Schedule Chart",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Vivid Holiday Schedule Chart — a flat vector style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3cdbd0",
+    "border": "#c7dac9",
+    "header": "#0ecd22",
+    "rowOdd": "#dde4de",
+    "rowEven": "#f3f6f3",
+    "checkmark": "#22c3b8",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "flat-vector routine schedule",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-3d-clay-193-reward-tracker",
+  "title": "Sunny Holiday Goal Chart",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Sunny Holiday Goal Chart — a 3d clay style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#43d589",
+    "border": "#ccdac7",
+    "header": "#4fe31a",
+    "rowOdd": "#e3e8e2",
+    "rowEven": "#f4f6f3",
+    "checkmark": "#22c370",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "3d-clay reward tracker",
+    "free holiday chart"
+  ]
+}

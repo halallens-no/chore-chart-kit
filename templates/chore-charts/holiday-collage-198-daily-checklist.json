@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-collage-198-daily-checklist",
+  "title": "Joyful Holiday Checklist",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Joyful Holiday Checklist — a collage style daily checklist with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#8441d7",
+    "border": "#c7d3da",
+    "header": "#2da8ea",
+    "rowOdd": "#e7eaec",
+    "rowEven": "#edf0f2",
+    "checkmark": "#6a22c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday daily checklist",
+    "printable daily checklist for kids",
+    "collage daily checklist",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "blue-puppy-adventure-chore-chart",
+  "title": "Blue Pup Adventure Chart",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "blue-puppy",
+  "description": "A sunlit watercolor border bursting with blue heeler puppies mid-play — bounding across grassy backyards, chasing orange butterflies, and rolling with big happy grins. Sky blue and warm tangerine dance together in this cozy weekly chore chart for kids who love their playful furry best friend.",
+  "colors": {
+    "header": "#1A5C9A",
+    "headerText": "#FFF8F0",
+    "accent": "#E8883A",
+    "rowEven": "rgba(240,249,255,0.88)",
+    "rowOdd": "rgba(255,241,225,0.72)",
+    "border": "#7EC8E3",
+    "checkmark": "#2B7FD4"
+  },
+  "tags": [
+    "blue puppy chore chart",
+    "blue heeler kids printable",
+    "puppy watercolor chore chart",
+    "cute dog chore chart for kids",
+    "blue dog weekly chore chart"
+  ]
+}

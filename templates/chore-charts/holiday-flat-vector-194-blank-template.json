@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-flat-vector-194-blank-template",
+  "title": "Cozy Holiday DIY Chart",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Cozy Holiday DIY Chart — a flat vector style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#87d047",
+    "border": "#dacac7",
+    "header": "#e0432a",
+    "rowOdd": "#eae5e4",
+    "rowEven": "#f3f0ef",
+    "checkmark": "#6dc322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "flat-vector blank template",
+    "free holiday chart"
+  ]
+}

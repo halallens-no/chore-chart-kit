@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-routine-schedule",
+  "title": "Happy Holiday Time Planner",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Happy Holiday Time Planner — a illustrated style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#71ca4d",
+    "border": "#dad5c7",
+    "header": "#cca327",
+    "rowOdd": "#eeece9",
+    "rowEven": "#fafaf8",
+    "checkmark": "#4fc322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "illustrated routine schedule",
+    "free holiday chart"
+  ]
+}

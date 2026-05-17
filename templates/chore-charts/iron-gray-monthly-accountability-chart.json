@@ -1,0 +1,25 @@
+{
+  "slug": "iron-gray-monthly-accountability-chart",
+  "title": "Iron Gray Monthly Accountability Chart",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "No-nonsense iron gray accountability chart for monthly office tracking. Industrial precision with maximum clarity.",
+  "colors": {
+    "header": "#37474f",
+    "headerText": "#eceff1",
+    "accent": "#78909c",
+    "rowEven": "rgba(255,255,255,0.94)",
+    "rowOdd": "rgba(236,239,241,0.94)",
+    "border": "#cfd8dc",
+    "checkmark": "#546e7a"
+  },
+  "tags": [
+    "accountability chart",
+    "monthly office chart",
+    "iron gray planner",
+    "team accountability",
+    "office monthly tracker"
+  ]
+}

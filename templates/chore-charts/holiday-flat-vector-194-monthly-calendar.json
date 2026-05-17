@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-flat-vector-194-monthly-calendar",
+  "title": "Zen Holiday Monthly Planner",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Zen Holiday Monthly Planner — a flat vector style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4293d5",
+    "border": "#c7dacd",
+    "header": "#14bb43",
+    "rowOdd": "#e4e9e5",
+    "rowEven": "#eff3f0",
+    "checkmark": "#227ac3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "flat-vector monthly calendar",
+    "free holiday chart"
+  ]
+}

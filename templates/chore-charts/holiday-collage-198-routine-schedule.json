@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-collage-198-routine-schedule",
+  "title": "Dainty Holiday Routine Board",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Dainty Holiday Routine Board — a collage style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5e6bba",
+    "border": "#c7dad3",
+    "header": "#3cb689",
+    "rowOdd": "#dfe6e4",
+    "rowEven": "#f3f6f5",
+    "checkmark": "#223ac3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "collage routine schedule",
+    "free holiday chart"
+  ]
+}

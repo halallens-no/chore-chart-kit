@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-doodle-197-star-chart",
+  "title": "Delicate Holiday Gold Stars",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Delicate Holiday Gold Stars — a doodle style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#dd713a",
+    "border": "#dac7d0",
+    "header": "#eb0d75",
+    "rowOdd": "#e7e1e4",
+    "rowEven": "#f6f3f4",
+    "checkmark": "#c35722",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "doodle star chart",
+    "free holiday chart"
+  ]
+}

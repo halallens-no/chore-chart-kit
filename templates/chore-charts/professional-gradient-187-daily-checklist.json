@@ -1,0 +1,24 @@
+{
+  "slug": "professional-gradient-187-daily-checklist",
+  "title": "Dainty Professional Daily Planner",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Dainty Professional Daily Planner — a gradient style daily checklist with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4795d1",
+    "border": "#c7dad2",
+    "header": "#1bbf78",
+    "rowOdd": "#e5ebe8",
+    "rowEven": "#f7f9f8",
+    "checkmark": "#227dc3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional daily checklist",
+    "printable daily checklist for kids",
+    "gradient daily checklist",
+    "free professional chart"
+  ]
+}

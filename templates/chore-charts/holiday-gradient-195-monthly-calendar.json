@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-gradient-195-monthly-calendar",
+  "title": "Joyful Holiday Monthly Planner",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Joyful Holiday Monthly Planner — a gradient style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5e5cbb",
+    "border": "#c7d3da",
+    "header": "#3c8bbc",
+    "rowOdd": "#e6e9eb",
+    "rowEven": "#f4f5f6",
+    "checkmark": "#2522c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "gradient monthly calendar",
+    "free holiday chart"
+  ]
+}

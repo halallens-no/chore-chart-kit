@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-200-blank-template",
+  "title": "Dainty Holiday Blank Canvas",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Dainty Holiday Blank Canvas — a watercolor style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#5eabba",
+    "border": "#c7dad2",
+    "header": "#3bb584",
+    "rowOdd": "#eaefed",
+    "rowEven": "#f2f5f4",
+    "checkmark": "#22a8c3",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "watercolor blank template",
+    "free holiday chart"
+  ]
+}

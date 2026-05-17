@@ -1,0 +1,25 @@
+{
+  "slug": "executive-navy-weekly-office-planner",
+  "title": "Executive Navy Weekly Planner",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "A sophisticated navy gradient planner for tracking weekly office tasks and team responsibilities. Clean typography with professional spacing.",
+  "colors": {
+    "header": "#1a365d",
+    "headerText": "#f7fafc",
+    "accent": "#63b3ed",
+    "rowEven": "rgba(255,255,255,0.92)",
+    "rowOdd": "rgba(237,242,247,0.92)",
+    "border": "#bee3f8",
+    "checkmark": "#3182ce"
+  },
+  "tags": [
+    "office chore chart",
+    "weekly planner",
+    "office task tracker",
+    "professional planner",
+    "team task board"
+  ]
+}

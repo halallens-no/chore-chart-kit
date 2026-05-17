@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-191-blank-template",
+  "title": "Airy Holiday Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Airy Holiday Open Template — a retro style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d76441",
+    "border": "#dac7d8",
+    "header": "#e826d5",
+    "rowOdd": "#ebe5ea",
+    "rowEven": "#f5f1f5",
+    "checkmark": "#c34722",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "retro blank template",
+    "free holiday chart"
+  ]
+}

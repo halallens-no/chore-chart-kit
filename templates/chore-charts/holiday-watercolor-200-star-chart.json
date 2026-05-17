@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-200-star-chart",
+  "title": "Zen Holiday Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Zen Holiday Star Board — a watercolor style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3ab2de",
+    "border": "#c7dace",
+    "header": "#37f379",
+    "rowOdd": "#e0e6e2",
+    "rowEven": "#f0f4f1",
+    "checkmark": "#2298c3",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "watercolor star chart",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-199-star-chart",
+  "title": "Peaceful Holiday Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Peaceful Holiday Star Board — a retro style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c55399",
+    "border": "#cbc7da",
+    "header": "#5b3ed2",
+    "rowOdd": "#e0dee5",
+    "rowEven": "#f8f8fa",
+    "checkmark": "#c32285",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "retro star chart",
+    "free holiday chart"
+  ]
+}

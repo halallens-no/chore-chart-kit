@@ -1,0 +1,24 @@
+{
+  "slug": "professional-doodle-181-reward-tracker",
+  "title": "Bold Professional Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Bold Professional Points Tracker — a doodle style reward tracker with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c65269",
+    "border": "#dac7d5",
+    "header": "#ca2da0",
+    "rowOdd": "#ebe5e9",
+    "rowEven": "#f4f1f4",
+    "checkmark": "#c32242",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional reward tracker",
+    "printable reward tracker for kids",
+    "doodle reward tracker",
+    "free professional chart"
+  ]
+}

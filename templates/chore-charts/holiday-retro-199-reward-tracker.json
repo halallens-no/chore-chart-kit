@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-199-reward-tracker",
+  "title": "Lively Holiday Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Lively Holiday Points Tracker — a retro style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4dd246",
+    "border": "#dad9c7",
+    "header": "#e3e02d",
+    "rowOdd": "#e9e8e3",
+    "rowEven": "#f3f3ef",
+    "checkmark": "#2ac322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "retro reward tracker",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-191-routine-schedule",
+  "title": "Fresh Holiday Flow Chart",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Fresh Holiday Flow Chart — a retro style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d0c947",
+    "border": "#dacfc7",
+    "header": "#e17a35",
+    "rowOdd": "#e4e0dd",
+    "rowEven": "#f6f5f4",
+    "checkmark": "#c3bb22",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "retro routine schedule",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "tropical-island-hibiscus-voyager-chore-chart",
+  "title": "Hibiscus Voyager",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "tropical-island",
+  "description": "Lush watercolor hibiscus blooms and swaying palm fronds frame a sun-drenched ocean adventure. Deep teal headers mirror the Pacific horizon, while coral-orange accents echo island sunsets. Every row feels like a new wave to ride on the way to completing your chores.",
+  "colors": {
+    "header": "#0D6E6E",
+    "headerText": "#F0FFFC",
+    "accent": "#F4623A",
+    "rowEven": "rgba(209,250,244,0.80)",
+    "rowOdd": "rgba(255,251,245,0.92)",
+    "border": "#2DD4BF",
+    "checkmark": "#F4623A"
+  },
+  "tags": [
+    "tropical island chore chart",
+    "hibiscus chore chart printable",
+    "ocean beach reward chart kids",
+    "tropical watercolor chore chart",
+    "island adventure kids chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-retro-191-monthly-calendar",
+  "title": "Radiant Holiday Monthly Grid",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Radiant Holiday Monthly Grid — a retro style monthly calendar with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#40d775",
+    "border": "#cddac7",
+    "header": "#4bd514",
+    "rowOdd": "#eaede8",
+    "rowEven": "#f6f8f5",
+    "checkmark": "#22c35a",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday monthly calendar",
+    "printable monthly calendar for kids",
+    "retro monthly calendar",
+    "free holiday chart"
+  ]
+}

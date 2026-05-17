@@ -1,0 +1,25 @@
+{
+  "slug": "charcoal-modern-office-task-board",
+  "title": "Charcoal Modern Task Board",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Sleek charcoal gradient task board with modern sans-serif fonts. Ideal for shared office spaces and team coordination.",
+  "colors": {
+    "header": "#2d3436",
+    "headerText": "#f5f6fa",
+    "accent": "#a4b0be",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(245,246,250,0.93)",
+    "border": "#dfe6e9",
+    "checkmark": "#636e72"
+  },
+  "tags": [
+    "office task board",
+    "weekly office chart",
+    "modern planner",
+    "team responsibilities",
+    "professional chore chart"
+  ]
+}

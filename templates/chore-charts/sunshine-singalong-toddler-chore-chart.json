@@ -1,0 +1,25 @@
+{
+  "slug": "sunshine-singalong-toddler-chore-chart",
+  "title": "Sunshine Singalong",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "nursery-song",
+  "description": "Bold primary colors and a giant clay sunshine crown the top of this toddler-perfect chore chart. Chunky red, sky blue, and watermelon green rows march along like verses of a favourite nursery song — bright, cheerful, and impossible to ignore.",
+  "colors": {
+    "header": "#FF3B3B",
+    "headerText": "#FFFFFF",
+    "accent": "#FFD600",
+    "rowEven": "rgba(232,248,255,0.94)",
+    "rowOdd": "rgba(232,255,234,0.92)",
+    "border": "#00B4D8",
+    "checkmark": "#4CAF50"
+  },
+  "tags": [
+    "toddler chore chart",
+    "nursery rhyme chore chart",
+    "cocomelon style chart",
+    "bright primary color chore chart",
+    "singalong printable for kids"
+  ]
+}

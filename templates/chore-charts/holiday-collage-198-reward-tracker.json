@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-collage-198-reward-tracker",
+  "title": "Happy Holiday Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Happy Holiday Points Tracker — a collage style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#44d34e",
+    "border": "#dad5c7",
+    "header": "#cc9f19",
+    "rowOdd": "#e9e7e3",
+    "rowEven": "#f8f8f6",
+    "checkmark": "#22c32d",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "collage reward tracker",
+    "free holiday chart"
+  ]
+}

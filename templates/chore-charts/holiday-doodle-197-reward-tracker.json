@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-doodle-197-reward-tracker",
+  "title": "Glossy Holiday Points Tracker",
+  "format": "reward-tracker",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Glossy Holiday Points Tracker — a doodle style reward tracker with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#dca43b",
+    "border": "#dac7c8",
+    "header": "#da0e18",
+    "rowOdd": "#ede8e8",
+    "rowEven": "#f6f4f4",
+    "checkmark": "#c38a22",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday reward tracker",
+    "printable reward tracker for kids",
+    "doodle reward tracker",
+    "free holiday chart"
+  ]
+}

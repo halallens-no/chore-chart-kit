@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-flat-vector-194-star-chart",
+  "title": "Bright Holiday Star Tracker",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Bright Holiday Star Tracker — a flat vector style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#94c058",
+    "border": "#dac8c7",
+    "header": "#ae3630",
+    "rowOdd": "#e9e3e3",
+    "rowEven": "#f7f5f5",
+    "checkmark": "#80c322",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "flat-vector star chart",
+    "free holiday chart"
+  ]
+}

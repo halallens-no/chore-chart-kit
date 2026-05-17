@@ -1,0 +1,24 @@
+{
+  "slug": "professional-collage-190-monthly-calendar",
+  "title": "Funky Professional Calendar Board",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Funky Professional Calendar Board — a collage style monthly calendar with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4d49cf",
+    "border": "#c7dad6",
+    "header": "#4be3c7",
+    "rowOdd": "#eaeeed",
+    "rowEven": "#f7f9f8",
+    "checkmark": "#2722c3",
+    "headerText": "#1a1a2e"
+  },
+  "tags": [
+    "professional monthly calendar",
+    "printable monthly calendar for kids",
+    "collage monthly calendar",
+    "free professional chart"
+  ]
+}

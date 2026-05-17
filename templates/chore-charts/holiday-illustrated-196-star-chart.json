@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-illustrated-196-star-chart",
+  "title": "Tranquil Holiday Star Rewards",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Tranquil Holiday Star Rewards — a illustrated style star chart with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#d8408c",
+    "border": "#d3c7da",
+    "header": "#9d1ae9",
+    "rowOdd": "#ebe8ed",
+    "rowEven": "#f0edf2",
+    "checkmark": "#c32272",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday star chart",
+    "printable star chart for kids",
+    "illustrated star chart",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "slug": "indigo-monthly-office-calendar",
+  "title": "Indigo Monthly Office Calendar",
+  "format": "monthly-calendar",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Strategic indigo monthly calendar for office task planning. 30-day overview with daily checkboxes for recurring duties.",
+  "colors": {
+    "header": "#283593",
+    "headerText": "#e8eaf6",
+    "accent": "#7986cb",
+    "rowEven": "rgba(255,255,255,0.92)",
+    "rowOdd": "rgba(232,234,246,0.88)",
+    "border": "#c5cae9",
+    "checkmark": "#3f51b5"
+  },
+  "tags": [
+    "monthly office calendar",
+    "office monthly planner",
+    "professional calendar",
+    "30-day task tracker",
+    "office duty calendar"
+  ]
+}

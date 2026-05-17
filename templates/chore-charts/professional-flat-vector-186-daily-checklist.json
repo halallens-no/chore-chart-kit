@@ -1,0 +1,24 @@
+{
+  "slug": "professional-flat-vector-186-daily-checklist",
+  "title": "Urban Professional Day Tracker",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Urban Professional Day Tracker — a flat vector style daily checklist with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c45553",
+    "border": "#d6c7da",
+    "header": "#9b2cba",
+    "rowOdd": "#e3dde4",
+    "rowEven": "#f8f6f8",
+    "checkmark": "#c32522",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional daily checklist",
+    "printable daily checklist for kids",
+    "flat-vector daily checklist",
+    "free professional chart"
+  ]
+}

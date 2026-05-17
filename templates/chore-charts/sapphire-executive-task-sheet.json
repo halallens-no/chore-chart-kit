@@ -1,0 +1,25 @@
+{
+  "slug": "sapphire-executive-task-sheet",
+  "title": "Sapphire Executive Task Sheet",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Premium sapphire blue executive task sheet for high-level office management. Authoritative color scheme with precise grid alignment.",
+  "colors": {
+    "header": "#1e3a5f",
+    "headerText": "#ebf8ff",
+    "accent": "#4299e1",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(235,248,255,0.90)",
+    "border": "#90cdf4",
+    "checkmark": "#3182ce"
+  },
+  "tags": [
+    "executive task sheet",
+    "office management",
+    "sapphire planner",
+    "professional task grid",
+    "team coordination chart"
+  ]
+}

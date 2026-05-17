@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-collage-198-blank-template",
+  "title": "Bright Holiday Open Template",
+  "format": "blank-template",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Bright Holiday Open Template — a collage style blank template with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#c59d52",
+    "border": "#dac8c7",
+    "header": "#b52c29",
+    "rowOdd": "#e9e3e3",
+    "rowEven": "#f3eeee",
+    "checkmark": "#c38a22",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday blank template",
+    "printable blank template for kids",
+    "collage blank template",
+    "free holiday chart"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "slug": "holiday-watercolor-200-routine-schedule",
+  "title": "Playful Holiday Time Planner",
+  "format": "routine-schedule",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "holiday",
+  "description": "Playful Holiday Time Planner — a watercolor style routine schedule with holiday theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#4dcb4f",
+    "border": "#d4dac7",
+    "header": "#8dc123",
+    "rowOdd": "#e2e4dd",
+    "rowEven": "#f4f5f2",
+    "checkmark": "#22c325",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "holiday routine schedule",
+    "printable routine schedule for kids",
+    "watercolor routine schedule",
+    "free holiday chart"
+  ]
+}

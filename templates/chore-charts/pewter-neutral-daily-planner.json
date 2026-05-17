@@ -1,0 +1,25 @@
+{
+  "slug": "pewter-neutral-daily-planner",
+  "title": "Pewter Neutral Daily Planner",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Versatile pewter daily planner that fits any office aesthetic. Neutral tones with structured time sections.",
+  "colors": {
+    "header": "#546e7a",
+    "headerText": "#eceff1",
+    "accent": "#90a4ae",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(236,239,241,0.93)",
+    "border": "#cfd8dc",
+    "checkmark": "#78909c"
+  },
+  "tags": [
+    "neutral daily planner",
+    "office daily checklist",
+    "pewter planner",
+    "versatile office chart",
+    "daily productivity"
+  ]
+}

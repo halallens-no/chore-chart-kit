@@ -1,0 +1,25 @@
+{
+  "slug": "burgundy-executive-daily-agenda",
+  "title": "Burgundy Executive Daily Agenda",
+  "format": "daily-checklist",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Refined burgundy daily agenda for executive task management. Elegant color scheme with structured time blocks.",
+  "colors": {
+    "header": "#5a1a2a",
+    "headerText": "#fff5f5",
+    "accent": "#c53030",
+    "rowEven": "rgba(255,255,255,0.93)",
+    "rowOdd": "rgba(255,245,245,0.90)",
+    "border": "#feb2b2",
+    "checkmark": "#9b2c2c"
+  },
+  "tags": [
+    "executive daily agenda",
+    "office daily planner",
+    "burgundy planner",
+    "professional agenda",
+    "daily task manager"
+  ]
+}

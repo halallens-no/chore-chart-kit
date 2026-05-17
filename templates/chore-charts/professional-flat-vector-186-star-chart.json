@@ -1,0 +1,24 @@
+{
+  "slug": "professional-flat-vector-186-star-chart",
+  "title": "Radiant Professional Star Board",
+  "format": "star-chart",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "professional",
+  "description": "Radiant Professional Star Board — a flat vector style star chart with professional theme. Unique colors and layout for kids.",
+  "colors": {
+    "accent": "#3cdc8e",
+    "border": "#cddac7",
+    "header": "#4ddf0f",
+    "rowOdd": "#e9ede8",
+    "rowEven": "#f0f3ef",
+    "checkmark": "#22c375",
+    "headerText": "#ffffff"
+  },
+  "tags": [
+    "professional star chart",
+    "printable star chart for kids",
+    "flat-vector star chart",
+    "free professional chart"
+  ]
+}

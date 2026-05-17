@@ -1,0 +1,25 @@
+{
+  "slug": "creature-catcher-quest-chore-chart",
+  "title": "Creature Catcher Quest",
+  "format": "weekly-grid",
+  "version": "1.0.0",
+  "license": "CC-BY-4.0",
+  "theme": "pocket-creatures",
+  "description": "Chunky 3D clay creatures burst from vivid red-and-white capture spheres. Pokeball-red headers, electric yellow accents, and Fredoka bubbly fonts create an irresistible monster-catching adventure where every chore earns a new capture stamp.",
+  "colors": {
+    "header": "#CC0000",
+    "headerText": "#FFFFFF",
+    "accent": "#FFD700",
+    "rowEven": "rgba(255,252,240,0.93)",
+    "rowOdd": "rgba(255,240,240,0.88)",
+    "border": "#FFD700",
+    "checkmark": "#CC0000"
+  },
+  "tags": [
+    "creature catcher chore chart",
+    "monster chore chart for kids",
+    "pokemon style chore chart",
+    "creature printable chart",
+    "monster catching reward chart"
+  ]
+}

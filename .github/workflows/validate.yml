@@ -30,4 +30,4 @@ jobs:
             echo "No templates yet — skipping validation."
             exit 0
           fi
-          ajv validate -s templates/schema.json -d "templates/chore-charts/*.json"
+          ajv validate --spec=draft2020 -s templates/schema.json -d "templates/chore-charts/*.json"
